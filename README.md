@@ -6,7 +6,7 @@
 **Date :** 18 décembre 2025
 
 ---
-Le Site Web est hosted via (github pages)[https://athenahuss.github.io/SiteWebSNT_ClaireWei_2nde4/parcours.html]
+Le Site Web est hosted via [github pages](https://athenahuss.github.io/SiteWebSNT_ClaireWei_2nde4/parcours.html)
 
 ## Composantes du site web
 
