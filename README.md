@@ -20,7 +20,7 @@ Le site comprend une barre de navigation fixe en haut de chaque page avec :
 
 ---
 
-### Page d'Accueil
+### Page d'Accueil (index.html)
 
 La page d'accueil présente une introduction générale au site web et à mon parcours en tant qu'élève de 2de4:
 
